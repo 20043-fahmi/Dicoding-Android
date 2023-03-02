@@ -1,1 +1,0 @@
-C:\Users\Noob\Documents\GitHub\Android-Dicoding\Starter\kotlin-starter\build\classes\kotlin\main\MainKt$main$1$job$1.class;C:\Users\Noob\Documents\GitHub\Android-Dicoding\Starter\kotlin-starter\build\classes\kotlin\main\MainKt$main$1.class;C:\Users\Noob\Documents\GitHub\Android-Dicoding\Starter\kotlin-starter\build\classes\kotlin\main\MainKt.class
